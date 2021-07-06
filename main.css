@@ -21,19 +21,19 @@ h1{
 }
 .pre{
   color:#fff;
-  width :120px;
+  width:120px;
   height:30px;
 }
 .mini_cont{
-  width:120 px;
+  width:120px;
   heigth:130px;
-  border-raduis: 4px;
+  border-raduis:4px;
   background:darkgray;
 }
 .mini_cont{
-  witdh: 120px;
+  witdh:120px;
   height:130px;
-  border_radius: 4px;
+  border_radius:4px;
   background:darkgray;
   box-shadow: 2px 3px 2px #000;
 }
@@ -47,7 +47,7 @@ footer{
   width:auto;
   padding:0;
   height:30pz;
-  background: #45dcd6;
+  background:#45dcd6;
 }
 
   

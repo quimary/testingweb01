@@ -10,7 +10,7 @@ body{
   height:870px;
   background:#d8c929;
   border: 1px solid #fcd;
-  border-raduis: 4px;
+  border-radius: 4px;
   box-shadow: 2px 3px 2px #777;
 }
 h1{
@@ -27,7 +27,7 @@ h1{
 .mini_cont{
   width:120px;
   heigth:130px;
-  border-raduis:4px;
+  border-radius:4px;
   background:darkgray;
 }
 .mini_cont{
